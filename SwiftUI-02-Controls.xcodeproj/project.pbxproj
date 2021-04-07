@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F30AEBD261E5BC000579756 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F30AEBC261E5BC000579756 /* TabView.swift */; };
 		E467366E261D829F00F182C7 /* SwiftUI_02_ControlsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E467366D261D829F00F182C7 /* SwiftUI_02_ControlsApp.swift */; };
 		E4673670261D829F00F182C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E467366F261D829F00F182C7 /* ContentView.swift */; };
 		E4673672261D82A000F182C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4673671261D82A000F182C7 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F30AEBC261E5BC000579756 /* TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
 		E467366A261D829F00F182C7 /* SwiftUI-02-Controls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-02-Controls.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E467366D261D829F00F182C7 /* SwiftUI_02_ControlsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_02_ControlsApp.swift; sourceTree = "<group>"; };
 		E467366F261D829F00F182C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				E467366D261D829F00F182C7 /* SwiftUI_02_ControlsApp.swift */,
+				3F30AEBC261E5BC000579756 /* TabView.swift */,
 				E467366F261D829F00F182C7 /* ContentView.swift */,
 				E4673671261D82A000F182C7 /* Assets.xcassets */,
 				E4673676261D82A000F182C7 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4673670261D829F00F182C7 /* ContentView.swift in Sources */,
+				3F30AEBD261E5BC000579756 /* TabView.swift in Sources */,
 				E467366E261D829F00F182C7 /* SwiftUI_02_ControlsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
