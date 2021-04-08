@@ -14,6 +14,15 @@
 //Scroll View: Creates a view that allows users to scroll content in the viewable area.
 //Form: Container that groups controls to take data input from the user.
 //
+//**********  EXTRA CREDIT  **********
+//
+//Text Modifiers: Text modifiers are things that change the appearance of the text. To access text modifiers, you can click on the library icon, then click on modifiers and type in text. You can change things like text color, text weight, text size, etc. You can also add modifiers that allow for the text to be changed with accessibility settings and even implementing a custom font.
+//
+//Position Modifiers:  Position modifiers adjust where things appear on the view.  Offset can be used to modify the x and y position of a view.  The “box” stays in the same position of the stack, but the content is shifted or “offset” by the x and y provided. You can also modify the position using overlay.  This allows you to place a view on top of other objects.  You can then use alignment to position the view “over top” of a text view and then set the alignment to “trailing” to shift the view to the “end” of the text view’s “box.”
+
+
+
+
 
 
 import SwiftUI
